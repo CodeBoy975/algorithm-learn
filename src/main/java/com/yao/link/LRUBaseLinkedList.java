@@ -36,6 +36,10 @@ public class LRUBaseLinkedList<T> {
         this.length = 0;
     }
 
+    /**
+     *  初始容量的构造方法
+     * @param capacity
+     */
     public LRUBaseLinkedList(Integer capacity) {
         this.headNode = new SNode();
         this.capacity = capacity;
