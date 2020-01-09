@@ -34,9 +34,11 @@ public class Browser {
      * 打开对应的网址
      */
     public void open(String url) {
+        // 非第一次打开网页，则表示当前页不为空，则将当前页先放入栈中
         if (currentPage != null) {
+            // 放入备份的栈中
             this.backStack.push(this.currentPage);
-            // 清除前进的栈
+            // 清空可以前进存放的栈，因为是新网页
             this.forwardStack.clean();
         }
         showUrl(url, "打开");
