@@ -1,6 +1,5 @@
 package com.yao.queue;
 
-import com.sun.org.apache.bcel.internal.generic.ARRAYLENGTH;
 
 /**
  *  设计一个循环的双端队列
