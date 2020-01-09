@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3181b743-06cf-4689-84e6-cf02a78a6d83" name="Default Changelist" comment="【链表leetcode练习题141】环形链表">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/stacks/brackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/stacks/LongValidParenteses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yao/stacks/brower/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yao/stacks/brower/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/link/LRUBaseLinkedList$SNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yao/link/LRUBaseLinkedList$SNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/link/LRUBaseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yao/link/LRUBaseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/stacks/brower/Brower$LinkedStack$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/stacks/brower/Brower$LinkedStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/stacks/brower/Brower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/stacks/brower/SampleLinkedStack$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/stacks/brower/SampleLinkedStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,109 +57,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="63" />
+          <entry key="java" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="63" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10944" />
+          <entry key="java" value="12373" />
           <entry key="txt" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10944" />
+          <entry key="JAVA" value="12373" />
           <entry key="PLAIN_TEXT" value="73" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/brower/Browser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/brackets.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/LongValidParenteses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-              <folding>
-                <element signature="e#791#799#0" expanded="true" />
-                <element signature="e#1724#1725#0" expanded="true" />
-                <element signature="e#1772#1773#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/link/PalindromeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/link/SinglyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2983">
-              <caret line="157" column="11" selection-start-line="157" selection-start-column="11" selection-end-line="157" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/link/LRUTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/ArrayStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+            <state relative-caret-position="304">
+              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/LinkedStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding>
-                <element signature="e#1551#1552#0" expanded="true" />
-                <element signature="e#1591#1592#0" expanded="true" />
+                <element signature="e#1229#1238#0" expanded="true" />
+                <element signature="e#1211#1212#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -220,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yao/stacks/brower/Brower.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/stacks/brower/Browser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/stacks/brackets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yao/stacks/LongValidParenteses.java" />
       </list>
     </option>
   </component>
@@ -360,7 +285,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578535305141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578542193843" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jike/algo/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -379,20 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.brackets">
-    <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yao.stacks.ArrayStack" />
-      <module name="algorithm-learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yao.stacks.brower.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LongValidParenteses">
     <configuration name="Brower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yao.stacks.brower.Brower" />
       <module name="algorithm-learn" />
@@ -432,6 +344,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongValidParenteses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yao.stacks.LongValidParenteses" />
+      <module name="algorithm-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yao.stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yao.stacks.brackets" />
       <module name="algorithm-learn" />
@@ -446,19 +371,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayStack" />
       <item itemvalue="Application.LinkedStack" />
       <item itemvalue="Application.Brower" />
       <item itemvalue="Application.Browser" />
       <item itemvalue="Application.brackets" />
+      <item itemvalue="Application.LongValidParenteses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongValidParenteses" />
         <item itemvalue="Application.brackets" />
         <item itemvalue="Application.Browser" />
         <item itemvalue="Application.Brower" />
         <item itemvalue="Application.LinkedStack" />
-        <item itemvalue="Application.ArrayStack" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +400,7 @@
       <workItem from="1577863396280" duration="6927000" />
       <workItem from="1578014107466" duration="14136000" />
       <workItem from="1578456144054" duration="13787000" />
-      <workItem from="1578531474054" duration="3940000" />
+      <workItem from="1578531474054" duration="10013000" />
     </task>
     <task id="LOCAL-00001" summary="【链表leetcode练习题】删除链表的倒数第n个节点">
       <created>1578018082634</created>
@@ -516,13 +441,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38790000" />
+    <option name="totallyTimeSpent" value="44863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26279318" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -531,14 +456,14 @@
       <window_info id="Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13259669" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20994475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40994474" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2839378" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.008290156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2883978" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36574584" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32486188" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -560,7 +485,7 @@
       <window_info anchor="right" id="Codota" order="11" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416666" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -568,19 +493,19 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.017616581" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.08618785" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13259669" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2839378" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.008290156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32928178" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3251029" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36574584" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32486188" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.41325966" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
       <window_info anchor="bottom" id="MyBatis Log" order="15" />
       <window_info anchor="bottom" id="Tail" order="16" />
@@ -709,29 +634,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/link/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="1305">
           <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/link/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2983">
+        <state relative-caret-position="4553">
           <caret line="157" column="11" selection-start-line="157" selection-start-column="11" selection-end-line="157" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/link/LRUTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="667">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state relative-caret-position="1972">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -740,15 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/brower/Browser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        <state relative-caret-position="206">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
@@ -771,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/LinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="696">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
           <folding>
             <element signature="e#1551#1552#0" expanded="true" />
             <element signature="e#1591#1592#0" expanded="true" />
@@ -782,12 +700,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/brackets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        <state relative-caret-position="870">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
           <folding>
             <element signature="e#791#799#0" expanded="true" />
             <element signature="e#1724#1725#0" expanded="true" />
             <element signature="e#1772#1773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/stacks/LongValidParenteses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1229#1238#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
           </folding>
         </state>
       </provider>
