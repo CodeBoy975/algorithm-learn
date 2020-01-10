@@ -36,7 +36,6 @@ public class InsertSore {
             array[j+1] = temp;
         }
     }
-
     public static void printAll(int[] array) {
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + ",");
