@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3181b743-06cf-4689-84e6-cf02a78a6d83" name="Default Changelist" comment="【链表leetcode练习题141】环形链表">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/sort/BubbleSore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/sort/InsertSore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yao/recursion/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yao/sort/BubbleSore.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yao/queue/MyCircularDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yao/queue/MyCircularDeque.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,23 +61,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="90" />
+          <entry key="java" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="90" />
+          <entry key="JAVA" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16912" />
+          <entry key="java" value="19405" />
           <entry key="txt" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16912" />
+          <entry key="JAVA" value="19405" />
           <entry key="PLAIN_TEXT" value="73" />
         </counts>
       </usages-collector>
@@ -109,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="e#469#470#0" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
@@ -119,15 +121,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="418">
+              <caret line="22" column="28" selection-end-line="29" />
               <folding>
                 <element signature="e#474#475#0" expanded="true" />
                 <element signature="e#510#511#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+              <folding>
+                <element signature="e#1070#1087#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BubbleSore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/InsertSore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -201,7 +233,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yao/queue/CircleQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/queue/MyCircularDeque.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yao/sort/BubbleSore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yao/sort/InsertSore.java" />
       </list>
     </option>
   </component>
@@ -321,7 +356,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yao" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,7 +367,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578621642967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578639926538" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jike/algo/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -351,13 +386,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="CircleQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yao.queue.CircleQueue" />
+  <component name="RunManager" selected="Application.InsertSore">
+    <configuration name="BubbleSore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yao.sort.BubbleSore" />
       <module name="algorithm-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yao.queue.*" />
+          <option name="PATTERN" value="com.yao.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,12 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yao.queue.LinkedQueue" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yao.recursion.Demo3" />
       <module name="algorithm-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yao.queue.*" />
+          <option name="PATTERN" value="com.yao.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,12 +439,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCircularDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yao.queue.MyCircularDeque" />
+    <configuration name="InsertSore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yao.sort.InsertSore" />
       <module name="algorithm-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yao.queue.*" />
+          <option name="PATTERN" value="com.yao.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,19 +453,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LinkedQueue" />
-      <item itemvalue="Application.CircleQueue" />
-      <item itemvalue="Application.MyCircularDeque" />
       <item itemvalue="Application.Demo1" />
       <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.BubbleSore" />
+      <item itemvalue="Application.InsertSore" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertSore" />
+        <item itemvalue="Application.BubbleSore" />
+        <item itemvalue="Application.Demo3" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.MyCircularDeque" />
-        <item itemvalue="Application.CircleQueue" />
-        <item itemvalue="Application.LinkedQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +483,7 @@
       <workItem from="1578014107466" duration="14136000" />
       <workItem from="1578456144054" duration="13787000" />
       <workItem from="1578531474054" duration="20131000" />
-      <workItem from="1578619033445" duration="2423000" />
+      <workItem from="1578619033445" duration="11253000" />
     </task>
     <task id="LOCAL-00001" summary="【链表leetcode练习题】删除链表的倒数第n个节点">
       <created>1578018082634</created>
@@ -489,7 +524,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57404000" />
+    <option name="totallyTimeSpent" value="66234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -504,7 +539,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26226014" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26226014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -513,14 +548,14 @@
       <window_info id="Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13259669" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22209945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.008290156" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0640884" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.09723757" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.5679558" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4364641" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25303867" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32486188" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -804,8 +839,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="e#469#470#0" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
@@ -815,12 +850,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="418">
+          <caret line="22" column="28" selection-end-line="29" />
           <folding>
             <element signature="e#474#475#0" expanded="true" />
             <element signature="e#510#511#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/recursion/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+          <folding>
+            <element signature="e#1070#1087#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BubbleSore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/InsertSore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
