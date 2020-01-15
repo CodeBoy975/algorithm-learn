@@ -11,8 +11,9 @@ import java.util.Arrays;
 public class CountSore {
 
     public static void main(String[] args) {
-        int[] array = new int[]{4, 7, 6, 5, 3, 2, 8, 1};
-        countSore(array);
+        int[] array = new int[]{94, 97, 96, 95,93,92, 98, 91};
+//        countSore(array);
+        array = stableCountSore(array);
         System.out.print(Arrays.toString(array));
     }
 
@@ -57,9 +58,10 @@ public class CountSore {
 
     /**
      * TODO 计数排序： 稳定排序方式
+     *
      * @param array
      */
-    public static void stableCountSore(int[] array) {
+    public static int[] stableCountSore(int[] array) {
         // 找到数组中的最大值
         int max = array[0];
         int min = array[0];
@@ -75,5 +77,26 @@ public class CountSore {
         int length = max - min + 1;
         // 构建新数组的长度则是由最大值-最小值获取
         int[] temp = new int[length];
+
+        for (int i = 0; i < array.length; i++) {
+            temp[array[i] - min]++;
+        }
+
+        // 统计数组做变形，后面的元素等于前面的元素之和
+        for (int i = 1; i < temp.length; i++) {
+            temp[i] = temp[i - 1] + temp[i];
+        }
+
+        // 倒序遍历原始数列，从统计数组找到正确位置，输出到结果数组,这是重点
+        int[] soretedArray = new int[array.length];
+        for (int i = array.length - 1; i >= 0; i--) {
+            // 此刻的temp数组
+            int a = temp[array[i] - min];
+            // a-1是因为数组下标是从0开始的
+            int idex = a - 1;
+            soretedArray[temp[array[i] - min] - 1] = array[i];
+            temp[array[i] - min]--;
+        }
+        return soretedArray;
     }
 }
