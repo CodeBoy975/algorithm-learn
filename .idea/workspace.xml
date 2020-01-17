@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3181b743-06cf-4689-84e6-cf02a78a6d83" name="Default Changelist" comment="【链表leetcode练习题141】环形链表">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,23 +59,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="145" />
+          <entry key="java" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="145" />
+          <entry key="JAVA" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="29811" />
+          <entry key="java" value="31002" />
           <entry key="txt" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29811" />
+          <entry key="JAVA" value="31002" />
           <entry key="PLAIN_TEXT" value="73" />
         </counts>
       </usages-collector>
@@ -118,11 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+            <state relative-caret-position="551">
+              <caret line="80" column="18" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="80" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -246,6 +255,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yao/sort/BucketSore.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/sort/Bsearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchChange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java" />
       </list>
     </option>
   </component>
@@ -386,7 +396,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579233717757" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579242438163" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jike/algo/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -405,7 +415,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BsearchChange">
+  <component name="RunManager" selected="Application.BsearchCircly">
     <configuration name="Bsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yao.sort.Bsearch" />
       <module name="algorithm-learn" />
@@ -421,6 +431,19 @@
     </configuration>
     <configuration name="BsearchChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yao.sort.BsearchChange" />
+      <module name="algorithm-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yao.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BsearchCircly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yao.sort.BsearchCircly" />
       <module name="algorithm-learn" />
       <extension name="coverage">
         <pattern>
@@ -458,33 +481,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yao.sort.MergeSore" />
-      <module name="algorithm-learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yao.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.MergeSore" />
       <item itemvalue="Application.CountSore" />
       <item itemvalue="Application.BucketSore" />
       <item itemvalue="Application.Bsearch" />
       <item itemvalue="Application.BsearchChange" />
+      <item itemvalue="Application.BsearchCircly" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BsearchCircly" />
         <item itemvalue="Application.BsearchChange" />
         <item itemvalue="Application.Bsearch" />
         <item itemvalue="Application.BucketSore" />
         <item itemvalue="Application.CountSore" />
-        <item itemvalue="Application.MergeSore" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +516,7 @@
       <workItem from="1578904413661" duration="4245000" />
       <workItem from="1578963830331" duration="4353000" />
       <workItem from="1579050093005" duration="19323000" />
-      <workItem from="1579227110764" duration="6448000" />
+      <workItem from="1579227110764" duration="10210000" />
     </task>
     <task id="LOCAL-00001" summary="【链表leetcode练习题】删除链表的倒数第n个节点">
       <created>1578018082634</created>
@@ -547,7 +557,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104861000" />
+    <option name="totallyTimeSpent" value="108623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,7 +572,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49819058" weight="0.14072494" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49819058" visible="true" weight="0.14072494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -571,14 +581,14 @@
       <window_info id="Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13259669" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3436464" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38232043" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33701658" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.23646408" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.5679558" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4563536" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14475138" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.21325967" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -677,6 +687,27 @@
     <MESSAGE value="【链表leetcode练习题141】环形链表" />
     <MESSAGE value="【链表leetcode练习题206】反正链表" />
     <option name="LAST_COMMIT_MESSAGE" value="【链表leetcode练习题206】反正链表" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -935,8 +966,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+        <state relative-caret-position="551">
+          <caret line="80" column="18" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
         </state>
       </provider>
     </entry>
