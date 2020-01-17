@@ -66,7 +66,7 @@ public class Bsearch {
             } else if (number < array[mid]) {
                 hight = mid - 1;
             } else {
-                mid = mid + 1;
+                lower = mid + 1;
             }
         }
         return -1;
@@ -75,7 +75,7 @@ public class Bsearch {
     public static void main(String[] args) {
         int[] array = new int[]{1, 2, 3, 4, 5, 6, 7, 8};
 //        int i = bSearch(array, 2, 0, array.length - 1);
-        int i = bSearch(array, 2);
+        int i = bSearch(array, 4);
         if (i != -1) {
             System.out.println(array[i]);
         }
