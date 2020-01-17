@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3181b743-06cf-4689-84e6-cf02a78a6d83" name="Default Changelist" comment="【链表leetcode练习题141】环形链表">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3181b743-06cf-4689-84e6-cf02a78a6d83" name="Default Changelist" comment="【链表leetcode练习题141】环形链表" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="513">
+              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -396,7 +393,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579242438163" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579246652594" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jike/algo/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -516,7 +513,7 @@
       <workItem from="1578904413661" duration="4245000" />
       <workItem from="1578963830331" duration="4353000" />
       <workItem from="1579050093005" duration="19323000" />
-      <workItem from="1579227110764" duration="10210000" />
+      <workItem from="1579227110764" duration="11651000" />
     </task>
     <task id="LOCAL-00001" summary="【链表leetcode练习题】删除链表的倒数第n个节点">
       <created>1578018082634</created>
@@ -557,7 +554,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108623000" />
+    <option name="totallyTimeSpent" value="110064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,13 +579,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13259669" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33701658" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.23646408" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5381215" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.5679558" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14475138" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28508288" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.21325967" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -687,27 +684,6 @@
     <MESSAGE value="【链表leetcode练习题141】环形链表" />
     <MESSAGE value="【链表leetcode练习题206】反正链表" />
     <option name="LAST_COMMIT_MESSAGE" value="【链表leetcode练习题206】反正链表" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -973,8 +949,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yao/sort/BsearchCircly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="513">
+          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
         </state>
       </provider>
     </entry>
